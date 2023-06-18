@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "date":"2015-",
+        "weather":"sunny",
+        "visibility":"great",
+        "comment":"none"
+
+    },
+    {
+        "id":2,
+        "date":"2015-",
+        "weather":"sunny",
+        "visibility":"great",
+        "comment":"none"   
+    }
+]
